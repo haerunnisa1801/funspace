@@ -17,3 +17,4 @@ def luas_persegi_panjang():
     print("Luas Persegi Adalah: " , luas)
 
 luas_persegi_panjang()
+intan nuraeni
